@@ -1,0 +1,13 @@
+C:\Users\UserGPC\source\repos\CalculadoraDeTriangulos\CalculadoraDeTriangulos\bin\Debug\netcoreapp3.1\CalculadoraDeTriangulos.exe
+C:\Users\UserGPC\source\repos\CalculadoraDeTriangulos\CalculadoraDeTriangulos\bin\Debug\netcoreapp3.1\CalculadoraDeTriangulos.deps.json
+C:\Users\UserGPC\source\repos\CalculadoraDeTriangulos\CalculadoraDeTriangulos\bin\Debug\netcoreapp3.1\CalculadoraDeTriangulos.runtimeconfig.json
+C:\Users\UserGPC\source\repos\CalculadoraDeTriangulos\CalculadoraDeTriangulos\bin\Debug\netcoreapp3.1\CalculadoraDeTriangulos.runtimeconfig.dev.json
+C:\Users\UserGPC\source\repos\CalculadoraDeTriangulos\CalculadoraDeTriangulos\bin\Debug\netcoreapp3.1\CalculadoraDeTriangulos.dll
+C:\Users\UserGPC\source\repos\CalculadoraDeTriangulos\CalculadoraDeTriangulos\bin\Debug\netcoreapp3.1\CalculadoraDeTriangulos.pdb
+C:\Users\UserGPC\source\repos\CalculadoraDeTriangulos\CalculadoraDeTriangulos\obj\Debug\netcoreapp3.1\CalculadoraDeTriangulos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserGPC\source\repos\CalculadoraDeTriangulos\CalculadoraDeTriangulos\obj\Debug\netcoreapp3.1\CalculadoraDeTriangulos.AssemblyInfoInputs.cache
+C:\Users\UserGPC\source\repos\CalculadoraDeTriangulos\CalculadoraDeTriangulos\obj\Debug\netcoreapp3.1\CalculadoraDeTriangulos.AssemblyInfo.cs
+C:\Users\UserGPC\source\repos\CalculadoraDeTriangulos\CalculadoraDeTriangulos\obj\Debug\netcoreapp3.1\CalculadoraDeTriangulos.csproj.CoreCompileInputs.cache
+C:\Users\UserGPC\source\repos\CalculadoraDeTriangulos\CalculadoraDeTriangulos\obj\Debug\netcoreapp3.1\CalculadoraDeTriangulos.dll
+C:\Users\UserGPC\source\repos\CalculadoraDeTriangulos\CalculadoraDeTriangulos\obj\Debug\netcoreapp3.1\CalculadoraDeTriangulos.pdb
+C:\Users\UserGPC\source\repos\CalculadoraDeTriangulos\CalculadoraDeTriangulos\obj\Debug\netcoreapp3.1\CalculadoraDeTriangulos.genruntimeconfig.cache
