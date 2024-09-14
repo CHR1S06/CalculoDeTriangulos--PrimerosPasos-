@@ -13,6 +13,7 @@ Presentación de Resultados: El programa mostrará en pantalla los valores ingre
 Reporte de Triángulos con Área Mayor a 12: Además de mostrar los resultados, el programa debe contar y reportar cuántos de los triángulos procesados tienen un área superior a 12 unidades cuadradas.
 
 
+
 Abordaje en la Aplicación Desarrollada:
 
 Para resolver este problema, desarrollé una aplicación en C# que cumple con los requisitos solicitados. La aplicación está diseñada para facilitar la interacción con el usuario, realizar los cálculos necesarios y presentar los resultados de manera clara.
